@@ -1,0 +1,9 @@
+apt update && apt upgrade
+apt install git 
+apt install python2
+https://github.com/rex-zubair/zphish.git
+ls
+cd zphish
+chmod +x zphish.sh
+ls
+./zphish
